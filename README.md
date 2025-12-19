@@ -1,15 +1,15 @@
 
-Ecommerce_Olist-store-Analysis
+**Ecommerce_Olist-store-Analysis**
 
-Presentation Link 
+**Presentation Link**
 
 https://docs.google.com/presentation/d/1M-2_UlADpoEdsQuSA8WEgX3IcUDFRBmy/edit?usp=drive_link&ouid=112493236137303737211&rtpof=true&sd=true
 
-Project Overview:
+**Project Overview:**
 
 The Olist Store Analysis project aims to analyze customer purchasing patterns and payment statistics on an E-commerce platform, Olist. 
 
-Synopsis of our source data:
+**Synopsis of our source data:**
 
 For our analysis, we selected the Brazilian-eCommerce dataset from ExcelR Solutions. About 100,000 customer orders are included in this dataset, along with matching files including product details and English translations of Portuguese product categories. From the initial ExcelR dataset, nine files were selected for additional examination: 
 
@@ -31,33 +31,33 @@ H] olist_order_reviews_dataset
 
 I] product_category_name_translation.
 
-Data Exploration and cleaning:
+**Data Exploration and cleaning:**
 
 The analysis is based on 9 CSV files ,which are cleaned and manipulated to extract valuable insights.
 Identify missing and duplicate values in each dataset and treat them accordingly.Also treat all data quality issues associated with the dataset.
 
-Data Modelling:
+**Data Modelling:**
 
 Build relationships of all datasets by creating bridge table in power query
 
-Data Merging:
+**Data Merging:**
 
 For Extracting Different kpi's we need to merge the 2 or 3 datasets with the help of power query
 
-Data Visualization:
+**Data Visualization:**
 
 Create appropriate visualizations to identify the most ordered products by payment statistics and purchasing patterns.
 
-Market analysis:
+**Market analysis:**
 
 Identify combinations of average delivery days for product category and calculate shipping days and visualise them as required.This can be done by creating a custom column in power query of powerbi
 
-Dashboarding and final PPT:
+**Dashboarding and final PPT:**
 
 create a neat dashboard containing the important visualizations and supplement it with an executive summary containing valuable insights and recommended steps of action.
 
 
-KPI's
+**KPI's**
 
 ✔Weekdays and weekend payment statistics
 
@@ -69,7 +69,7 @@ KPI's
 
 ✔Average shipping days vs review scores
 
-Key Insights:
+**Key Insights:**
 
 💹According to the data, Olist E-commerce has about 99,440 orders. With about 89,940 orders being delivered, the company has a 90% delivery success rate. 
 
@@ -80,11 +80,11 @@ Key Insights:
 ✔The analysis of payment statistics based on weekday vs. weekend provides an understanding of the buying behavior of customers. and can also help Olist to improve their weekend sales and plan promotions accordingly. 
 
 
-My SQL Queries
+**My SQL Queries**
 
 Link to Olist store Schema (https://drive.google.com/file/d/1witSgTo6BBsJO7DFtQq_5WBJHw-trKj-/view?usp=drive_link)
 
-Dashboard
+**Dashboard**
 
 Link to Dashboard on Excel (https://docs.google.com/spreadsheets/d/1cVbzV2ybjxd75VRMi9LRr3U-MW_GzxlT/edit?usp=drive_link&ouid=112493236137303737211&rtpof=true&sd=true)
 
